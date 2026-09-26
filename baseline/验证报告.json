@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "failures": [],
+  "delivered_boxes": 80,
+  "total_boxes": 80,
+  "continuous_certificates": 10147,
+  "sample_count": 34111,
+  "sampled_outages": 0,
+  "sample_step_s": 1.0,
+  "min_sample_margin_db": 0.00048183992460337777,
+  "actual_uavs": [
+    "U01",
+    "U02",
+    "U05",
+    "U06",
+    "U07",
+    "U08"
+  ],
+  "actual_relay_uavs": [
+    "R01",
+    "R02"
+  ],
+  "used_transport_batteries": 10,
+  "used_relay_components": 5,
+  "statement": "连续证书基于30m DEM分片常值地形和视线扫掠区域保守判定；不是实地无线链路保证。"
+}
